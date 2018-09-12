@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="menu_insert">Insert Dummy Data</string>
+    <string name="menu_show">Show Data</string>
+    <string name="buy_button">BUY NOW</string>
+    <string name="name">Name</string>
+    <string name="hint_book_name">BOOK NAME</string>
+    <string name="hint_supplier_name">SUPPLIER NAME</string>
+    <string name="edit_text_quantity">Quantity</string>
+    <string name="edit_text_price">Price</string>
+    <string name="edit_text_phone">Phone</string>
+    <string name="edit_text_email">Only supports gmail accounts</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_del">delete</string>
+    <string name="category_title">Books</string>
+    <string name="delete_all_msg">delete all the books?</string>
+    <string name="empty_view_title">there is no books yet</string>
+    <string name="edit_book_title">Edit book</string>
+    <string name="add_book_title">Add book</string>
+    <string name="error_del_book">Error with deleting the book</string>
+    <string name="deleted_successfully">The book was deleted successfully</string>
+    <string name="dialog_del">Delete</string>
+    <string name="dialog_can">Cancel</string>
+    <string name="delete_dialoge_msg">Delete this book?</string>
+    <string name="delete_all">delete all</string>
+    <string name="wrong_email">Wrong email , only supports gmail accounts</string>
+    <string name="unsaved_msg">do you want to discard changes?</string>
+    <string name="discard">Discard</string>
+
+</resources>
